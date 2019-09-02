@@ -14,7 +14,7 @@
     </parent>
     <groupId>lukasz.springframework</groupId>
     <artifactId>sf-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>sf-pet-clinic</name>
     <description>SF Pet Clinic Project</description>
 
@@ -46,8 +46,8 @@
     </build>
 
     <scm>
-        <developerConnection>scn:git:git@github.com:LukaszTatar/sf-pet-clinic.git</developerConnection>
-        <tag>sf-pet-clinic-0.0.1</tag>
+        <developerConnection>scn:git:https://github.com/LukaszTatar/sf-pet-clinic.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
